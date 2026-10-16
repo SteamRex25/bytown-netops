@@ -1,0 +1,5 @@
+Q1: 5adffca 
+Q2: 3
+Q3: "git pull" because you need to merge the changes into your local branch before you can push and further changes yourself
+Q4: no, because the file was already comitted to the main branch the day before meaning it still exists in main
+Q5: "git branch -d (branch) to delete the branch locally. "git psuh origin --delete (branch) to get rid of it on github
