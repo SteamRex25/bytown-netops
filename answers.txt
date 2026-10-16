@@ -1,4 +1,4 @@
-Q1: 5adffca 
+Q1: 4f173ad 
 Q2: 3
 Q3: "git pull" because you need to merge the changes into your local branch before you can push and further changes yourself
 Q4: no, because the file was already comitted to the main branch the day before meaning it still exists in main
